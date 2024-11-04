@@ -5,3 +5,4 @@ cd features/src/desktop-lite
 rm -rf ../..   # This removes everything except the 'src/desktop-lite' directory.
 cd desktop-lite
 ./install.sh
+cd corepc
