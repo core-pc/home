@@ -6,3 +6,6 @@ rm -rf ../..   # This removes everything except the 'src/desktop-lite' directory
 cd desktop-lite
 ./install.sh
 cd corepc
+mkdir Help
+mv README.md Help
+mv basicknowledge.md Help
