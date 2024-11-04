@@ -1,2 +1,2 @@
-# install
-install script for core-pc
+# home
+(run the install.sh to install corepc)
